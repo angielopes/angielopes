@@ -16,8 +16,3 @@ Meu objetivo é construir soluções eficientes para tratamento, processamento e
 - 🤖 Gosto muito do universo cyberpunk e de tecnologia.
 - 📖 Aprendo melhor com livros técnicos.
 - 🎵 Atualmente, ando escutando muito a banda Nothing But Thieves.
-
-📡 **Entre em contato comigo!**
-Se quiser trocar ideias, bater um papo ou colaborar em projetos, me encontre por aqui:
-- [**Linkedin**](https://www.linkedin.com/in/angelalopes97/)
-- [**E-mail**](angelalopzs@gmail.com)
