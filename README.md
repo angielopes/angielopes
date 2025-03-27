@@ -13,6 +13,5 @@ Meu objetivo é construir soluções eficientes para tratamento, processamento e
 
 ### 🖤 Curiosidades sobre mim
 - 🐱 Tenho alguns gatos (rs).
-- 🤖 Gosto muito do universo cyberpunk e de tecnologia.
-- 📖 Aprendo melhor com livros técnicos.
-- 🎵 Atualmente, ando escutando muito a banda Nothing But Thieves.
+- 🤖 Gosto muito do universo cyberpunk.
+- 🎵 Atualmente, tenho escutando muito a banda Nothing But Thieves.
