@@ -1,5 +1,5 @@
 ### 🐈‍⬛ Sobre mim
-Meu nome é Angela, sou bacharelanda em Ciência de Dados e estou me especializando na área de Dados. Atualmente, moro no Brasil e estou focada em aprofundar meus conhecimentos em Python, SQL e ferramentas essenciais para engenharia de dados.
+Meu nome é Angela, sou bacharelanda em Ciência de Dados e estou me especializando na área de Dados. Atualmente, moro no Brasil e estou focada em aprofundar meus conhecimentos em Python, SQL e ferramentas essenciais para engenharia e análise de dados.
 
 ### 🛸 Informações
 - **💻 Stack:** Python, SQL, AWS
