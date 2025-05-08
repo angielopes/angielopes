@@ -1,6 +1,10 @@
 ### Sobre mim
-Meu nome é Angela, sou bacharelanda em Ciência de Dados e estou me especializando na área de Dados. Atualmente, estou focada em aprofundar meus conhecimentos em Python, SQL e ferramentas essenciais para engenharia e análise de dados.
+Olá! Meu nome é Angela e atuo profissionalmente na área de dados, com experiência em análise e engenharia de dados. Atuo com tratamento e transformação de dados usando Python e SQL, entregando informações confiáveis para análise. Desenvolvo dashboards interativos e orientados a insights no Looker Studio, com foco em facilitar decisões estratégicas.
 
-### Informações
-- **Stack:** Python, SQL, AWS
-- **Aprendizado Atual:** Engenharia e Análise de Dados, Cloud Computing (AWS), Algoritmos e Estruturas de Dados, Redes, Segurança Cibernética
+Tenho vivência com ambientes em nuvem (AWS), execução de processos de ETL, consumo de APIs e automações de tarefas envolvendo grandes volumes de dados. Estou constantemente evoluindo minhas habilidades técnicas para desenvolver soluções eficientes, escaláveis e seguras.
+
+### Stack principal
+- **Linguagens**: Python, SQL
+- **DB**: MySQL, Postgres
+- **Cloud**: AWS
+- **Ferramentas**: Looker Studio, Jupyter, Git/GitHub
